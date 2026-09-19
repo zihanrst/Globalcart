@@ -1,6 +1,9 @@
 # Python virtual environment
 .venv/
 
+data/raw/
+data/processed/
+
 # Environment variables / passwords
 .env
 
